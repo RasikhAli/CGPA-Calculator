@@ -2,7 +2,7 @@
 
 A simple web application to calculate SGPA and CGPA for students based on their subjects, marks, and credit hours.
 
-## Website is Live: http://rasikhali.pythonanywhere.com/
+## Website is Live at: https://rasikhali.marveloussoft.tech
 
 ## Features
 
